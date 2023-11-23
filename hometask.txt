@@ -2,3 +2,27 @@ human.txt in master branch and human.txt in origin/demo branch are the same
 README.txt in master branch and README.txt in origin/demo branch are different
 there is an additional piece of string "with nice buttons on his jacket (buttons branch)" in README.txt in master branch
     comparing to the README.txt in origin/demo branch
+
+11 commits excluding the last commit which is connected only to hometask.txt
+
+hometask added
+
+Merge branch 'boots_buttons'
+
+Merge remote-tracking branch 'origin/hat'
+
+Merge branch 'buttons' of https://github.com/YandexLyceum/human into …
+
+Merge branch 'boots' of https://github.com/YandexLyceum/human into bo…
+
+fix readme
+
+dots
+
+README added
+
+boots
+
+heat added
+
+init
